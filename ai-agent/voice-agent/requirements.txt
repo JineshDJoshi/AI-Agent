@@ -1,0 +1,4 @@
+livekit
+livekit-agents>=0.8.0
+livekit-plugins-openai
+aiohttp
