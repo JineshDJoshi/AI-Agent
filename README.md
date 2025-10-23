@@ -221,12 +221,4 @@ Frontend runs on `http://localhost:5173`.
 * Questions are normalized (lowercase, punctuation removed).
 * Simple word overlap similarity (50%+ threshold).
 * **Production upgrade:** Use embeddings (OpenAI, etc.) for semantic search.
-
----
-
-## 🔗 Learn More
-
-* [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-* [React Documentation](https://reactjs.org/)
-* [Firebase Documentation](https://firebase.google.com/docs)
-* [LiveKit Documentation](https://docs.livekit.io/)
+* 
